@@ -1,0 +1,14 @@
+Mean Pitch: 66.82665007374631
+Std Pitch: 9.1541942944559
+Unique Pitches: 70
+Max Pitch: 94.0
+Min Pitch: 14.0
+Mode Duration: 1.0
+Unique Durations: 14
+Max Duration: 16.0
+Min Duration: 0.25
+Percentage 1.0 Duration: 93.68854473942969
+Mode Rest: 0.0
+Unique Rests: 8
+Max Rest: 32.0
+Percentage 0.0 Rest: 98.15019665683383

@@ -1,0 +1,14 @@
+Mean value of pitch: 66.84081478977133
+Standard deviation of pitch: 9.155595754072843
+Number of unique pitch value: 72
+Max Pitch value: 96.0
+Min Pitch value: 8.0
+Mode of duration: 1.0
+Number of unique duration value: 15
+Max Duration value: 16.0
+Min Duration value: 0.25
+Percentage of 1.0(%) : 93.6735462257192
+Mode of rest: 0.0
+Number of unique rest value: 8
+Max rest value: 32.0
+Percentage of 0.0(%): 98.15819400049176
