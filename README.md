@@ -32,4 +32,4 @@ also can use other py,like GRU_DRM,CNN_GRU_EBS
    environment.set('musicxmlPath', 'C:/Program Files/MuseScore 4/bin/MuseScore4.exe')
 5. Running the GUI for the first time can take longer because it involves the startup of the project
    
-## (See the README in the project for how individual emotion recognition works)
+## (See the README in the project for how individual emotion recognition works. It's in another branch)
